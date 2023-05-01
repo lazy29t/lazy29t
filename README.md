@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/tC6ZYz3n6FwAuwCGt6" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-station-workstation-tC6ZYz3n6FwAuwCGt6">via GIPHY</a></p>
+
 <!--
 **lazy29t/lazy29t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<iframe src="https://giphy.com/embed/tC6ZYz3n6FwAuwCGt6" width="427" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-station-workstation-tC6ZYz3n6FwAuwCGt6">via GIPHY</a></p>
 
 Here are some ideas to get you started:
 
