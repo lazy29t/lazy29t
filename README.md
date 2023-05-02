@@ -5,8 +5,8 @@
   <h4 align="center">Just a cybersecurity enthusiast student who loves learning new technologies and challenging my skills everyday💪</h4>
 </div>
 
-- 🧠 I'm currently learning `Ethical Hacking` and `AI programing` 
-- 💬 I like to talk about `Hacking` or `AI programming`
+- 🧠 I'm currently learning `Ethical Hacking` and `Machine Learning` 
+- 💬 I like to talk about `Hacking` or `Machine learning`
 - 🌔 Fun fact: I love play `HacktheBox` and doing writeups for my webpage lazy29t.github.com
 
 
@@ -26,4 +26,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy29t&theme=dark&background=000000)](https://git.io/streak-stats)
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy29t&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy29t&show_icons=true&theme=radical)
 
