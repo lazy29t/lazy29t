@@ -2,14 +2,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W9G8OK82R3dfO/giphy-downsized.gif" style="width:90%;height=70% "/>
   <h1 align="center"><b>lazy tonight</b>👀🧑‍💻?</h1>
-  <h2 align="center"></h2>
-  
+  <h2 align="center">Just a cybersecurity enthusiast student. I love learning new technologies and challenging my skills everyday</h2>
 </div>
 
+- 🌱 I’m currently learning `Ethical Hacking`,`Offensive Security`,`AI programing` 
+- 💬 Ask me about `Hacking`
+- 🌔 Fun fact: I love play `HacktheBox` and doing writeups for my webpage lazy29t.github.com
 
 
 <div id="icons">
-  <h1>⚡️ My Knowledges</h1>
+  <h2>⚡️ My Knowledges</h2>
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
