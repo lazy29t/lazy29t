@@ -5,6 +5,9 @@
   <h4 align="center">Just a cybersecurity enthusiast student who loves learning new technologies and challenging my skills everyday💪</h4>
 </div>
 
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black
+
 - 🧠 I'm currently learning `Ethical Hacking` and `Machine Learning` 
 - 💬 I like to talk about `Hacking` or `Machine learning`
 - 🌔 Fun fact: I love play `HacktheBox` and doing writeups for my webpage lazy29t.github.com
