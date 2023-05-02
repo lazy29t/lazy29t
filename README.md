@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
   </a>
   <a href="https://lazy29t.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </div>
 
 ----
