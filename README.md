@@ -23,9 +23,9 @@
 
 ## 🕺My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy29t&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy29t&theme=merko&background=000000)](https://git.io/streak-stats)
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy29t&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazy29t&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazy29t&show_icons=true&theme=radical)
 
