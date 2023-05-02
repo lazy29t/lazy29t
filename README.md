@@ -4,10 +4,11 @@
   <h1 align="center"><b>lazy tonight</b>👀🧑‍💻?</h1>
   <h4 align="center">Just a cybersecurity enthusiast student who loves learning new technologies and challenging my skills everyday💪</h4>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
 </div>
 
 
-https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black
+
 
 - 🧠 I'm currently learning `Ethical Hacking` and `Machine Learning` 
 - 💬 I like to talk about `Hacking` or `Machine learning`
