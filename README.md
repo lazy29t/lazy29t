@@ -6,7 +6,7 @@
   <h4 align="center"> I love learning new technologies and challenging my skills everyday💪</h4>
 </div>
 
-- 🌱 I’m currently learning `Ethical Hacking`,`Offensive Security`,`AI programing` 
+- 🧠 I'm currently learning `Ethical Hacking` and `AI programing` 
 - 💬 I like to talk about `Hacking` or `AI programming`
 - 🌔 Fun fact: I love play `HacktheBox` and doing writeups for my webpage lazy29t.github.com
 
