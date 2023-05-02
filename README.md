@@ -12,11 +12,11 @@
 
 ----
 
-## 🕹About Me:
+## 🌔 About Me:
 
 - 🧠 I'm currently learning `Ethical Hacking` and `Machine Learning` 
 - 💬 I like to talk about `Hacking` or `Machine learning`
-- 🌔 Fun fact: I love play `HacktheBox` and doing writeups for my webpage lazy29t.github.com
+- 🕹 Fun fact: I love play `HacktheBox` and doing writeups for my [**web-page**](https://lazy29t.github.io)
 
 
 <div id="icons">
@@ -29,7 +29,7 @@
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40" />
 </div>
 
-## My Stats:
+## 📊 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy29t&theme=merko&background=000000)](https://git.io/streak-stats)
 ----
