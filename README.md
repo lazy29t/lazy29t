@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W9G8OK82R3dfO/giphy-downsized.gif" style="width:90%;height=70% "/>
   <h1 align="center"><b>lazy tonight</b>👀🧑‍💻?</h1>
-  <h4 align="center">Just a cybersecurity enthusiast student</h4> 
-  <h4 align="center"> I love learning new technologies and challenging my skills everyday💪</h4>
+  <h4 align="center">Just a cybersecurity enthusiast student who loves learning new technologies and challenging my skills everyday💪</h4>
 </div>
 
 - 🧠 I'm currently learning `Ethical Hacking` and `AI programing` 
