@@ -7,7 +7,7 @@
     <a href="https://app.hackthebox.com/profile/1375558">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
   </a>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
+  <a href="https://tryhackme.com/p/Lazy29t"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </div>
 
 ----
