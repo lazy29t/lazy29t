@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/W9G8OK82R3dfO/giphy-downsized.gif" style="width:90%;height=70% "/>
   <h1 align="center"><b>lazy tonight</b>👀🧑‍💻?</h1>
-  <h4 align="center">Just a cybersecurity enthusiast student who loves learning new stuff and challenging my skills everyday💪</h4>
+  <h4 align="center">Just a cybersecurity enthusiast student who loves learning new stuff and improving my skills everyday💪</h4>
   <a href="https://lazy29t.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white"/></a>
     <a href="https://app.hackthebox.com/profile/1375558">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black"/>
