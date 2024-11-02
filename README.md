@@ -14,7 +14,7 @@
 
 ## 🌔 About Me:
 
-- 🧠 I'm currently learning `Ethical Hacking` and `Machine Learning` 
+- 🧠 I'm currently learning `Ethical Hacking` and `Programming` 
 - 🕹 Fun fact: I love play `HacktheBox` and doing writeups for my [**web-page**](https://lazy29t.github.io)
 
 
