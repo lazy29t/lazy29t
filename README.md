@@ -15,7 +15,7 @@
 ## 🌔 About Me:
 
 - 🧠 I'm currently learning `Ethical Hacking` and `Programming` 
-- 🕹 Fun fact: I love play `HacktheBox` and doing writeups for my [**web-page**](https://lazy29t.github.io)
+- 🕹 Fun fact: I love playing `CTF` and shared my writeups for my [**web-page**](https://lazy29t.github.io)
 
 
 <div id="icons">
