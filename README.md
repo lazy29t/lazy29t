@@ -18,7 +18,7 @@
 - 🕹 Fun fact: I love playing `CTF` and shared my writeups for my [**web-page**](https://lazy29t.github.io)
 
 
-<div id="icons">
+<div id="icons" align="center">
   <h2>⚡️ My Knowledges</h2>
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
@@ -27,6 +27,9 @@
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40" />
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
   <img <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="40" height="40" />
+  <img <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Html5" alt="Html5" width="40" height="40" />
+  <img <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Html5" alt="Html5" width="40" height="40" />
+  
 </div>
 
 ## 📊 My Stats:
